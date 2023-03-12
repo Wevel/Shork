@@ -1,0 +1,16 @@
+{
+	"items": [
+		{
+			"key": "soup_v1",
+			"name": "Soup v1",
+			"description": "A delicious soup made from red lentils and vegetables.",
+			"ingredients": {
+				"water": "1500ml",
+				"red_split_lentils": "250g",
+				"onion": 1,
+				"vegetable_stock": 3
+			},
+			"instructions": []
+		}
+	]
+}

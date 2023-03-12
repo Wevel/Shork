@@ -1,0 +1,124 @@
+{
+	"items": [
+		{	
+			"key": "red_split_lentils",
+			"name": "Red Split Lentils",
+			"group": "vegetable",
+			"unitQuantity": "500g",
+			"variants":[
+				{
+					"brand": "Morrisons",
+					"price": [
+						{
+							"quantity": "100g",
+							"date": "2015-01-01",
+							"price": 0.25					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "96kcal",
+						"fat": "0.8g",
+						"saturatedFat": "0.1g",
+						"carbohydrate": "11.7g",
+						"sugar": "0.1g",
+						"fibre": "6.1g",
+						"protein": "7.4g",
+						"salt": "0.02g"
+					}
+				}
+			]
+		},
+		{	
+			"key": "onion",
+			"name": "Onion",
+			"group": "vegetable",
+			"unitQuantity": "200g",
+			"variants":[
+				{
+					"brand": "Morrisons",
+					"price": [
+						{
+							"quantity": "100g",
+							"date": "2015-01-01",
+							"price": 0.25					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "40kcal",
+						"fat": "0.1g",
+						"saturatedFat": "0g",
+						"carbohydrate": "9g",
+						"sugar": "4.2g",
+						"fibre": "1.7g",
+						"protein": "1.1g",
+						"salt": "0.02g",
+						"cholesterol": "0mg",
+						"sodium": "4mg",
+						"potassium": "146mg",
+						"vitaminC": "12%",
+						"calcium": "2%",
+						"iron": "1%",
+						"vitaminD": "0%",
+						"vitaminB6": "5%",
+						"cobalamin": "0%",
+						"magnesium": "2%"
+					}
+				}
+			]
+		},
+		{	
+			"key": "vegetable_stock",
+			"name": "Vegetable Stock",
+			"group": "other",
+			"unitQuantity": "450ml",
+			"variants":[
+				{
+					"brand": "Knorr",
+					"price": [
+						{
+							"quantity": "100g",
+							"date": "2015-01-01",
+							"price": 0.25					
+						}
+					],
+					"nutrition": {
+						"quantity": "100ml",
+						"calories": "7kcal",
+						"fat": "0.6g",
+						"saturatedFat": "0.4g",
+						"carbohydrate": "<0.5g",
+						"sugar": "<0.5g",
+						"fibre": "<0.5g",
+						"protein": "<0.5g",
+						"salt": "0.96g"
+					}
+				}
+			]
+		},
+		{	
+			"key": "water",
+			"name": "Water",
+			"group": "other",
+			"unitQuantity": "1000ml",
+			"variants":[
+				{
+					"brand": "Scottish Water",
+					"price": [ ],
+					"nutrition": {
+						"quantity": "100ml",
+						"calories": "0kcal",
+						"fat": "0g",
+						"saturatedFat": "0g",
+						"carbohydrate": "0g",
+						"sugar": "0g",
+						"fibre": "0g",
+						"protein": "0g",
+						"salt": "0g"
+					}
+				}
+			]
+		}
+	]
+}
