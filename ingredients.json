@@ -29,6 +29,151 @@
 				}
 			]
 		},
+		{
+			"key": "bulgur_wheat",
+			"name": "Bulgur Wheat",
+			"group": "vegetable",
+			"unitQuantity": "30g",
+			"variants":[
+				{
+					"brand": "Morrisons",
+					"price": [
+						{
+							"quantity": "100g",
+							"date": "2015-01-01",
+							"price": 0.25					
+						}
+					],
+					"nutrition": {
+						"quantity": "30g",
+						"calories": "342kcal",
+						"fat": "0.6g",
+						"saturatedFat": "0.2g",
+						"carbohydrate": "15g",
+						"sugar": "0.1g",
+						"fibre": "1.8g",
+						"protein": "2.9g",
+						"salt": "0.02g"
+					}
+				}
+			]
+		},
+		{
+			"key": "carrot",
+			"name": "Carrot",
+			"group": "vegetable",
+			"unitQuantity": "1kg",
+			"variants":[
+				{
+					"brand": "Lidl",
+					"price": [
+						{
+							"quantity": "1kg",
+							"date": "2015-01-01",
+							"price": 0.25					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "41kcal",
+						"fat": "0.2g",
+						"saturatedFat": "0g",
+						"carbohydrate": "9.6g",
+						"sugar": "4.7g",
+						"fibre": "2.8g",
+						"protein": "0.9g",
+						"cholesterol": "0mg",
+						"sodium": "69mg",
+						"potassium": "320mg",
+						"vitaminC": "9%",
+						"calcium": "3%",
+						"iron": "1%",
+						"vitaminD": "0%",
+						"vitaminB6": "5%",
+						"cobalamin": "0%",
+						"magnesium": "3%"
+					}
+				}
+			]
+		},
+		{
+			"key": "parsnip",
+			"name": "Parsnip",
+			"group": "vegetable",
+			"unitQuantity": "1kg",
+			"variants":[
+				{
+					"brand": "Lidl",
+					"price": [
+						{
+							"quantity": "500g",
+							"date": "2015-01-01",
+							"price": 0.25					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "66kcal",
+						"fat": "1.2g",
+						"saturatedFat": "0.2g",
+						"carbohydrate": "12.9g",
+						"sugar": "5.9g",
+						"fibre": "4.7g",
+						"protein": "1.6g",
+						"salt": "<0.01g",
+						"vitaminA": "41ug",
+						"cholesterol": "0mg",
+						"sodium": "10mg",
+						"potassium": "375mg",
+						"vitaminC": "28%",
+						"calcium": "3%",
+						"iron": "3%",
+						"vitaminD": "0%",
+						"vitaminB6": "5%",
+						"cobalamin": "0%",
+						"magnesium": "7%"
+					}
+				}
+			]
+		},
+		{
+			"key": "sweet_potato",
+			"name": "Sweet Potato",
+			"group": "vegetable",
+			"unitQuantity": "1kg",
+			"variants":[
+				{
+					"brand": "Lidl",
+					"price": [
+						{
+							"quantity": "1kg",
+							"date": "2015-01-01",
+							"price": 0.25					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "86kcal",
+						"fat": "0.1g",
+						"saturatedFat": "0g",
+						"carbohydrate": "20.0g",
+						"sugar": "4.2g",
+						"fibre": "3.0g",
+						"protein": "1.6g",
+						"cholesterol": "0mg",
+						"sodium": "55mg",
+						"potassium": "337mg",
+						"vitaminC": "4%",
+						"calcium": "3%",
+						"iron": "3%",
+						"vitaminD": "0%",
+						"vitaminB6": "10%",
+						"cobalamin": "0%",
+						"magnesium": "6%"
+					}
+				}
+			]
+		},
 		{	
 			"key": "onion",
 			"name": "Onion",
@@ -68,6 +213,45 @@
 				}
 			]
 		},
+		{
+			"key": "bell_pepper",
+			"name": "Bell Pepper",
+			"group": "vegetable",
+			"unitQuantity": "120g",
+			"variants":[
+				{
+					"brand": "Morrisons",
+					"price": [
+						{
+							"quantity": "100g",
+							"date": "2015-01-01",
+							"price": 0.25					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "20kcal",
+						"fat": "0.2g",
+						"saturatedFat": "0.1g",
+						"carbohydrate": "4.6g",
+						"sugar": "2.4g",
+						"fibre": "1.7g",
+						"protein": "0.9g",
+						"salt": "0g",
+						"cholesterol": "0mg",
+						"sodium": "3mg",
+						"potassium": "175mg",
+						"vitaminC": "134%",
+						"calcium": "1%",
+						"iron": "1%",
+						"vitaminD": "0%",
+						"vitaminB6": "10%",
+						"cobalamin": "0%",
+						"magnesium": "2%"
+					}
+				}
+			]
+		},
 		{	
 			"key": "vegetable_stock",
 			"name": "Vegetable Stock",
@@ -101,7 +285,7 @@
 			"key": "water",
 			"name": "Water",
 			"group": "other",
-			"unitQuantity": "1000ml",
+			"unitQuantity": "1L",
 			"variants":[
 				{
 					"brand": "Scottish Water",
@@ -115,6 +299,64 @@
 						"sugar": "0g",
 						"fibre": "0g",
 						"protein": "0g",
+						"salt": "0g"
+					}
+				}
+			]
+		},
+		{
+			"key": "chicken_breast",
+			"name": "Chicken Breast",
+			"group": "meat",
+			"unitQuantity": "1kg",
+			"variants":[
+				{
+					"brand": "Lidl",
+					"price": [
+						{
+							"quantity": "1kg",
+							"date": "2015-01-01",
+							"price": 3.00					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "106kcal",
+						"fat": "1.1g",
+						"saturatedFat": "0.3g",
+						"carbohydrate": "0g",
+						"sugar": "0g",
+						"fibre": "0g",
+						"protein": "24.0g",
+						"salt": "0.15g"
+					}
+				}
+			]
+		},
+		{
+			"key": "chicken_mince",
+			"name": "Chicken Mince",
+			"group": "meat",
+			"unitQuantity": "500g",
+			"variants":[
+				{
+					"brand": "Lidl",
+					"price": [
+						{
+							"quantity": "500g",
+							"date": "2015-01-01",
+							"price": 2.00					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "113kcal",
+						"fat": "4.0g",
+						"saturatedFat": "0g",
+						"carbohydrate": "0g",
+						"sugar": "0g",
+						"fibre": "0g",
+						"protein": "1.8g",
 						"salt": "0g"
 					}
 				}

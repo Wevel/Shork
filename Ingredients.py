@@ -8,7 +8,7 @@ import Tools
 class FoodGroup(Enum):
 	Fruit = "fruit"
 	Vegetable = "vegetable"
-	Protein = "protein"
+	Meat = "meat"
 	Dairy = "dairy"
 	Other = "other"
 

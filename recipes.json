@@ -4,13 +4,43 @@
 			"key": "soup_v1",
 			"name": "Soup v1",
 			"description": "A delicious soup made from red lentils and vegetables.",
+			"isLiquid": true,
+			"serviceSize": 0.1,
 			"ingredients": {
-				"water": "1500ml",
+				"water": "1.5L",
 				"red_split_lentils": "250g",
 				"onion": 1,
 				"vegetable_stock": 3
 			},
 			"instructions": []
+		},
+		{
+			"key": "roast_vegetables_chicken_v1",
+			"name": "Roast Vegetables & Chicken v1",
+			"description": "A delicious roast chicken with vegetables.",
+			"isLiquid": false,
+			"serviceSize": 0.2,
+			"ingredients": {
+				"chicken_breast": "1kg",
+				"onion": 2,
+				"carrot": "1kg",
+				"parsnip": "500g",
+				"sweet_potato": "650g"
+			}
+		},
+		{
+			"key": "polish_wheat_peppers_v2",
+			"name": "Polish Wheat & Peppers v2",
+			"description": "A delicious Polish wheat with peppers.",
+			"isLiquid": false,
+			"serviceSize": 0.16666666666666666,
+			"ingredients": {
+				"bulgur_wheat": "100g",
+				"onion": 1,
+				"bell_pepper": 3,
+				"chicken_mince": "500g",
+				"sweet_potato": "750g"
+			}
 		}
 	]
 }
