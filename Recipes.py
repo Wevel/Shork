@@ -52,4 +52,9 @@ ingredients = {item.key: item for item in ingredients}
 recipes = [Recipe.FromJSON(item) for item in Tools.LoadJSON("recipes.json")["items"]]
 for item in recipes:
 	print(item.name)
-	item.GetServing(ingredients).Print()
+	serving = item.GetServing(ingredients)
+
+	print(f"\tQuantity: {serving.quantity}")
+	for key, value in serving.values.items():
+		if key != "quantity":
+			print(f"\t{key}: {value}")

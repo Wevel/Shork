@@ -204,12 +204,6 @@ class Nutrition:
 		else:
 			raise ValueError(f"Cannot divide nutrition by '{type(other).__name__}'")
 
-	def Print(self) -> None:
-		print(f'Quantity: {self.quantity}')
-		for key, value in self.values.items():
-			if key != "quantity":
-				print(f'{key}: {value}')
-
 	@classmethod
 	def Create(cls, values: dict[str, str | int] | None = None, isLiquid: bool = False) -> "Nutrition":
 		if values is None:

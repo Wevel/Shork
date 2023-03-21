@@ -252,6 +252,45 @@
 				}
 			]
 		},
+		{
+			"key": "butternut_squash",
+			"name": "Butternut Squash",
+			"group": "vegetable",
+			"unitQuantity": "0.65kg",
+			"variants":[
+				{
+					"brand": "Morrisons",
+					"price": [
+						{
+							"quantity": "1kg",
+							"date": "2023-03-21",
+							"price": 0.89					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "45kcal",
+						"fat": "0.1g",
+						"saturatedFat": "0g",
+						"carbohydrate": "12.0g",
+						"sugar": "2.2g",
+						"fibre": "2.0g",
+						"protein": "1.0g",
+						"salt": "0g",
+						"cholesterol": "0mg",
+						"sodium": "4mg",
+						"potassium": "352mg",
+						"vitaminC": "35%",
+						"calcium": "4%",
+						"iron": "3%",
+						"vitaminD": "0%",
+						"vitaminB6": "10%",
+						"cobalamin": "0%",
+						"magnesium": "8%"
+					}
+				}
+			]
+		},
 		{	
 			"key": "vegetable_stock",
 			"name": "Vegetable Stock",
@@ -358,6 +397,35 @@
 						"fibre": "0g",
 						"protein": "1.8g",
 						"salt": "0g"
+					}
+				}
+			]
+		},
+		{
+			"key": "sweet_chilli_sausage",
+			"name": "Sweet Chilli Sausage",
+			"group": "meat",
+			"unitQuantity": "360g",
+			"variants":[
+				{
+					"brand": "Lidl",
+					"price": [
+						{
+							"quantity": "400g",
+							"date": "2023-03-21",
+							"price": 2.49
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "315kcal",
+						"fat": "25.4g",
+						"saturatedFat": "9.4g",
+						"carbohydrate": "6.0g",
+						"sugar": "4.0g",
+						"fibre": "1.3g",
+						"protein": "19.2g",
+						"salt": "1.53g"
 					}
 				}
 			]

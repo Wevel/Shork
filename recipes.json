@@ -15,6 +15,18 @@
 			"instructions": []
 		},
 		{
+			"key": "parsnip_soup_v1",
+			"name": "Parsnip Soup v1",
+			"description": "A delicious soup made from parsnips.",
+			"isLiquid": true,
+			"serviceSize": 0.25,
+			"ingredients": {
+				"parsnip": "500g",
+				"vegetable_stock": 2
+			},
+			"instructions": []
+		},
+		{
 			"key": "roast_vegetables_chicken_v1",
 			"name": "Roast Vegetables & Chicken v1",
 			"description": "A delicious roast chicken with vegetables.",
@@ -26,6 +38,21 @@
 				"carrot": "1kg",
 				"parsnip": "500g",
 				"sweet_potato": "650g"
+			}
+		},
+		{
+			"key": "roast_vegetables_sausage_v1",
+			"name": "Roast Vegetables & Sausage v1",
+			"description": "A delicious roast sausage with vegetables.",
+			"isLiquid": false,
+			"serviceSize": 0.1666666,
+			"ingredients": {
+				"sweet_chilli_sausage": "720g",
+				"onion": 1,
+				"bell_pepper": 3,
+				"parsnip": "500g",
+				"butternut_squash": "650g",
+				"sweet_potato": "648g"
 			}
 		},
 		{
