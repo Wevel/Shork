@@ -68,6 +68,18 @@
 				"chicken_mince": "500g",
 				"sweet_potato": "750g"
 			}
+		},
+		{
+			"key": "smoked_salmon_sweet_potato_broccoli_v1",
+			"name": "Smoked Salmon, Sweet Potato & Broccoli v1",
+			"description": "A delicious smoked salmon fillet with sweet potato and broccoli.",
+			"isLiquid": false,
+			"serviceSize": 0.3333333333333333,
+			"ingredients": {
+				"smoked_salmon_fillet": "360g",
+				"broccoli": "500g",
+				"sweet_potato": "750g"
+			}
 		}
 	]
 }

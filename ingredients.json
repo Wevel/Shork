@@ -291,6 +291,45 @@
 				}
 			]
 		},
+		{
+			"key": "broccoli",
+			"name": "Broccoli",
+			"group": "vegetable",
+			"unitQuantity": "0.5kg",
+			"variants":[
+				{
+					"brand": "Morrisons",
+					"price": [
+						{
+							"quantity": "1kg",
+							"date": "2023-03-21",
+							"price": 0.89					
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "34kcal",
+						"fat": "0g",
+						"saturatedFat": "0g",
+						"carbohydrate": "7.0g",
+						"sugar": "1.7g",
+						"fibre": "2.6g",
+						"protein": "2.8g",
+						"salt": "0g",
+						"cholesterol": "0mg",
+						"sodium": "33mg",
+						"potassium": "316mg",
+						"vitaminC": "148%",
+						"calcium": "4%",
+						"iron": "3%",
+						"vitaminD": "0%",
+						"vitaminB6": "10%",
+						"cobalamin": "0%",
+						"magnesium": "5%"
+					}
+				}
+			]
+		},
 		{	
 			"key": "vegetable_stock",
 			"name": "Vegetable Stock",
@@ -426,6 +465,35 @@
 						"fibre": "1.3g",
 						"protein": "19.2g",
 						"salt": "1.53g"
+					}
+				}
+			]
+		},
+		{
+			"key": "smoked_salmon_fillet",
+			"name": "Smoked Salmon",
+			"group": "meat",
+			"unitQuantity": "120g",
+			"variants":[
+				{
+					"brand": "Lidl",
+					"price": [
+						{
+							"quantity": "240g",
+							"date": "2023-03-21",
+							"price": 4.20
+						}
+					],
+					"nutrition": {
+						"quantity": "120g",
+						"calories": "266kcal",
+						"fat": "19.6g",
+						"saturatedFat": "3.4g",
+						"carbohydrate": "<0.1g",
+						"sugar": "<0.1g",
+						"fibre": "0.5g",
+						"protein": "22.1g",
+						"salt": "0.38g"
 					}
 				}
 			]
