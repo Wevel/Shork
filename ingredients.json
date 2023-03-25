@@ -470,7 +470,7 @@
 			]
 		},
 		{
-			"key": "smoked_salmon_fillet",
+			"key": "salmon_fillet",
 			"name": "Smoked Salmon",
 			"group": "meat",
 			"unitQuantity": "120g",
@@ -494,6 +494,35 @@
 						"fibre": "0.5g",
 						"protein": "22.1g",
 						"salt": "0.38g"
+					}
+				}
+			]
+		},
+		{
+			"key": "pulled_pork",
+			"name": "Pulled Pork",
+			"group": "meat",
+			"unitQuantity": "400g",
+			"variants":[
+				{
+					"brand": "Lidl",
+					"price": [
+						{
+							"quantity": "400g",
+							"date": "2023-03-21",
+							"price": 2.99
+						}
+					],
+					"nutrition": {
+						"quantity": "100g",
+						"calories": "184kcal",
+						"fat": "6.2g",
+						"saturatedFat": "2.3g",
+						"carbohydrate": "14.4g",
+						"sugar": "12.1g",
+						"fibre": "<0.5g",
+						"protein": "17.5g",
+						"salt": "0.8g"
 					}
 				}
 			]

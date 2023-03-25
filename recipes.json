@@ -70,15 +70,27 @@
 			}
 		},
 		{
-			"key": "smoked_salmon_sweet_potato_broccoli_v1",
-			"name": "Smoked Salmon, Sweet Potato & Broccoli v1",
-			"description": "A delicious smoked salmon fillet with sweet potato and broccoli.",
+			"key": "salmon_butternut_squash_broccoli_v1",
+			"name": "Salmon, Butternut Squash & Broccoli v1",
+			"description": "A delicious salmon fillet with butternut squash and broccoli.",
 			"isLiquid": false,
 			"serviceSize": 0.3333333333333333,
 			"ingredients": {
-				"smoked_salmon_fillet": "360g",
-				"broccoli": "500g",
-				"sweet_potato": "750g"
+				"salmon_fillet": "360g",
+				"broccoli": "350g",
+				"butternut_squash": "650g"
+			}
+		},
+		{
+			"key": "pulled_pork_butternut_squash_carrot_v1",
+			"name": "Pulled Pork, Butternut Squash & Carrot v1",
+			"description": "A delicious pulled pork with butternut squash and carrot.",
+			"isLiquid": false,
+			"serviceSize": 0.3333333333333333,
+			"ingredients": {
+				"pulled_pork": "800g",
+				"carrot": "200g",
+				"butternut_squash": "650g"
 			}
 		}
 	]
